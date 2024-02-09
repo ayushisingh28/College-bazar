@@ -1,0 +1,182 @@
+<<<<<<< HEAD
+/* Common styles */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .wrapper {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
+  .common-btn {
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #d19c97;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .common-btn:hover {
+    background-color: #b7807a;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #6c757d; /* Dark gray */
+  }
+  
+  .form-group input {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ced4da; /* Light gray */
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
+  /* Login page specific styles */
+  .login-container {
+    width: 100%;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40; /* Dark gray */
+  }
+  
+  .login-container p {
+    text-align: center;
+    margin-top: 15px;
+    color: #6c757d; /* Dark gray */
+  }
+  
+  /* Register page specific styles */
+  .register-container {
+    width: 100%;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40; /* Dark gray */
+  }
+  
+  .register-container p {
+    text-align: center;
+    margin-top: 15px;
+    color: #6c757d; /* Dark gray */
+  }
+=======
+/* Common styles */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .wrapper {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
+  .common-btn {
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #d19c97;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .common-btn:hover {
+    background-color: #b7807a;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #6c757d; /* Dark gray */
+  }
+  
+  .form-group input {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ced4da; /* Light gray */
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
+  /* Login page specific styles */
+  .login-container {
+    width: 100%;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40; /* Dark gray */
+  }
+  
+  .login-container p {
+    text-align: center;
+    margin-top: 15px;
+    color: #6c757d; /* Dark gray */
+  }
+  
+  /* Register page specific styles */
+  .register-container {
+    width: 100%;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #343a40; /* Dark gray */
+  }
+  
+  .register-container p {
+    text-align: center;
+    margin-top: 15px;
+    color: #6c757d; /* Dark gray */
+  }
+>>>>>>> 1fb7b3eb734d7c2f802caad33a1af70c617d832d
+  
